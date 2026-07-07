@@ -74,7 +74,6 @@ GNU General Public License for more details.
 = 4.0.0 - Jul 13 2026 =
 * Updated: WordPress 7.0 compatibility
 * Updated: Requires PHP 7.4
-* Updated: Tested up to WordPress 7.0
 
 = 3.1.3 - Apr 19 2025 =
 * Added: Tested with the latest WordPress.
